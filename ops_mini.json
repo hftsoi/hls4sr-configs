@@ -1,0 +1,20 @@
+{
+  "binary": {
+    "/": "x / y",
+    "*": "x * y",
+    "+": "x + y",
+    "-": "x - y",
+    "pow_abs": "Abs(x) ** y"
+  },
+  "unary": {
+    "log_abs": "sympy.log(Abs(x))",
+    "sqrt_abs": "sympy.sqrt(Abs(x))",
+    "square": "x**2",
+    "sin": "sympy.sin",
+    "tan": "sympy.tan",
+    "cosh": "sympy.cosh",
+    "sinh": "sympy.sinh",
+    "tanh": "sympy.tanh",
+    "exp": "sympy.exp"
+  }
+}

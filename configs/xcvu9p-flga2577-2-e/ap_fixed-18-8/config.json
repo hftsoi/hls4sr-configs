@@ -1,0 +1,1 @@
+{"part": "xcvu9p-flga2577-2-e", "precision": "ap_fixed<18,8>", "complexity_of_operators": {"/": 31, "*": 1, "+": 1, "-": 1, "pow_abs": 14, "log_abs": 4, "sqrt_abs": 7, "square": 1, "sin": 9, "tan": 54, "cosh": 9, "sinh": 10, "tanh": 58, "exp": 3}}
