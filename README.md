@@ -5,5 +5,5 @@ This script generates `complexity_of_operators` which should be used as one of t
 
 Run as follows:
 ```
-python generate_cfg.py --part <part> --precision <precision>
+python generate_cfg.py --part <part> --precision_B <precision_B> --precision_I <precision_I> --ops_list <ops_list.json>
 ```
